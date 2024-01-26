@@ -1,6 +1,5 @@
 ---
 title: about
-date: 2024-01-25 15:48:09
 ---
 
 Hello
