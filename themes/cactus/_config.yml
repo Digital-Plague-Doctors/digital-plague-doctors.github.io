@@ -29,16 +29,10 @@ nav:
 social_links:
   -
     icon: github
-    link: /
+    link: https://github.com/Digital-Plague-Doctors
   -
     icon: twitter
-    link: /
-  -
-    icon: facebook
-    link: /
-  -
-    icon: mail
-    link: mailto:name@email.com
+    link: https://twitter.com/DigiPlagueDr
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud

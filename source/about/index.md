@@ -2,6 +2,8 @@
 title: about
 ---
 
+Find us on <a class="icon u-url" target="_blank" rel="noopener me" href="https://github.com/Digital-Plague-Doctors" aria-label="github" title="github"><i class="fa-brands fa-github"></i></a> <a class="icon u-url" target="_blank" rel="noopener me" href="https://twitter.com/DigiPlagueDr" aria-label="twitter" title="twitter"><i class="fa-brands fa-twitter"></i></a>
+
 Digital Plague Doctors, founded by a group of dedicated malware analysis enthusiasts. Our website is for sharing insights, research, and strategies on malware analysis and cybersecurity, aimed at empowering professionals and enthusiasts alike to better understand and defend against evolving digital threats.
 
 ---
