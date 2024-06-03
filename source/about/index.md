@@ -12,11 +12,9 @@ Digital Plague Doctors, founded by a group of dedicated malware analysis enthusi
 
 Find me on <a class="icon u-url" target="_blank" rel="noopener me" href="https://twitter.com/LambdaMamba" aria-label="twitter" title="twitter"><i class="fa-brands fa-twitter"></i></a> <a class="icon u-url" target="_blank" rel="noopener me" href="https://LambdaMamba.com" aria-label="website" title="website"><i class="fa-solid fa-globe"></i></a>
 
-Lena is a malware analyst and researcher from Japan, and the author of the ANY.RUN malware analysis articles. 
+Lena is a malware analyst and researcher from Japan, and the author of the ANY.RUN malware analysis articles. She has investigated several cyber threats including the Roaming Mantis Smishing Campaigns, IPFS phishing campaigns and international scam operations, and has written numerous articles for open-source education. She has also created the MARC I (Malware Analysis Report Competition), fostering contributions to open-source education in malware analysis.
 
-She has spoken at events like AVTokyo, NCA on topics related to phishing, malware analysis, and threat hunting. She has also played a role in organizing various cybersecurity workshops and events, and has been actively involved in several cybersecurity communities.
-
-Before Lena went down the path of malware analysis, she was a low-level developer that specialized in CPU design and RISC-V TEE research. 
+She has spoken at events such as IEICE Technical Committee on Computer Systems, AVTokyo, Nippon CSIRT Association and BSides, on topics related to computer systems, phishing, malware analysis, and threat hunting. Additionally, she has played a role in organizing and teaching at various cybersecurity events. Before venturing into malware analysis, Lena was a low-level developer specializing in computer architecture and RISC-V TEE research. 
 
 # Wei-Chieh Chao (oalieno)
 
